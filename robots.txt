@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://velic.xyz/sitemap.xml
+Sitemap: http://roman.velic.xyz/sitemap.xml
