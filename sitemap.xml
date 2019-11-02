@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   
   <url>
-    <loc>http://roman.velic.xyz/#video</loc>
+    <loc>http://roman.velic.xyz/#learn</loc>
+  </url>
+  
+  <url>
+    <loc>http://roman.velic.xyz/#watch</loc>
   </url>
   
   <url>
@@ -12,10 +15,6 @@
   
   <url>
     <loc>http://roman.velic.xyz/#wechat</loc>
-  </url>
-  
-  <url>
-    <loc>http://roman.velic.xyz/#intro</loc>
   </url>
   
   <url>
